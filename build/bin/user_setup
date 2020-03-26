@@ -11,3 +11,4 @@ chmod g+rw /etc/passwd
 
 # no need for this script to remain in the image after running
 rm $0
+
